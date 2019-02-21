@@ -1,0 +1,34 @@
+*
+html {
+	position: relative;
+}
+html, body {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	background-color: #efefef;
+	background: #efefef 
+}
+
+h1, h2, {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	color: #4aaaa5;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+
+header {
+	width: 100%;
+	height: auto;
+	border-bottom: 3px solid #cccccc;
+	background-color: #ffffff;
+}
